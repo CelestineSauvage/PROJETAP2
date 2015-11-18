@@ -216,7 +216,7 @@ def draw_ncercles(cercle,n):
     :Example:
 
     >>> cercle = create(250,250,100)
-    >>> quifaittout(cercle,4)
+    >>> draw_ncercles(cercle,4)
     
     """
     draw_circle(cercle)
